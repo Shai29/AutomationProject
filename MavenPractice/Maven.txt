@@ -1,0 +1,7 @@
+Code will move into git repo
+
+
+Jenkins - Git repo
+
+
+Jenkins - Pom.xml - TextNg.xml - Scripting - Main Functionality - Page object model
